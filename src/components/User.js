@@ -3,7 +3,7 @@ import PropTypes from 'prop-types'//impt tab
 
   class User extends Component {
     state = {
-        isVisible:false
+        isVisible:true
     }
 //     constructor(props){
 //         super(props);
